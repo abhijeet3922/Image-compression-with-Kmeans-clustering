@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 21 23:18:12 2017
 
-@author: user
-"""
 from skimage import io
 import numpy as np
 
