@@ -4,7 +4,7 @@ from skimage import io
 from sklearn.cluster import KMeans
 import numpy as np
 
-image = io.imread('C:\\Users\\Charlie\\Desktop\\image-compression\\tiger.png')
+image = io.imread('tiger.png')
 io.imshow(image)
 io.show()
 
